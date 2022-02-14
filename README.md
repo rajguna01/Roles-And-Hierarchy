@@ -6,6 +6,13 @@
 **System requirements:**
 -jdk 1.8 or above.
 
+## Steps to Run this appication
+1. [Go to src directory]
+2. [open treminal]
+3. [execute "javac controller/MainController.java" command]
+4. [execute "java controller/MainController" command then you can use this applicatio]
+
+
 **Steps to Run this appication**
 # **Step 1:** Go to src directory.
 # **Step 2:** open treminal.
